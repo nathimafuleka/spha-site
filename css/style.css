@@ -296,6 +296,7 @@ body {
 
 ol, ul {
   list-style: none;
+  text-align: justify;
 }
 
 blockquote, q {
